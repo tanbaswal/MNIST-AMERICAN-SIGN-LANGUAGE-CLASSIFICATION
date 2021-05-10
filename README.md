@@ -4,7 +4,7 @@ DATASET LINK: https://www.kaggle.com/datamunge/sign-language-mnist
 
 The Project classify American Sign Language which consists of alphabets.
 
-6 machine algorithms have been used for classifcation: linear regression, logistic regression, SVM, Random Forest, ANNA and CNN
+6 machine algorithms have been used for classifcation: linear regression, logistic regression, SVM, Random Forest, ANN and CNN
 
 Comparative analysis is done on the methods used 
 
